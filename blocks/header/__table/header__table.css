@@ -1,0 +1,11 @@
+.header__table {
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+    width: 90%;
+    height: 80px;
+    justify-content: space-evenly;
+    flex-direction: row;
+    margin-left: 120px;
+    margin-right: auto;
+}

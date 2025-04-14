@@ -1,0 +1,12 @@
+.header__table-home {
+    font-family: 'Rubik-LightItalic';
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    transition: color 0.3s ease-out;
+}
+
+.header__table-home:hover {
+    color: skyblue;
+}

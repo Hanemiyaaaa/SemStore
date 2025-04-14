@@ -1,0 +1,12 @@
+.header__table-authorization {
+    width: 40px;
+    height: 40px;
+    margin-left: 15px;
+    transition: transform 0.3s ease-out;
+    margin-right: 50px;
+}
+
+.header__table-authorization:hover {
+    transform: scale(1.2);
+    filter: brightness(1) invert(0.5) sepia(1) saturate(5) hue-rotate(175deg);
+}

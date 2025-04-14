@@ -1,0 +1,9 @@
+.header__table-logo {
+    width: 200px;
+    height: 80px;
+    transition: transform 0.3s ease-out;
+}
+
+.header__table-logo:hover {
+    transform: scale(1.2);
+}

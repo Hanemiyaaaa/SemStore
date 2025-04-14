@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Rubik-LightItalic';
+  font-style:  normal;
+  font-weight: 500;
+  src: url("./fonts/Rubik-LightItalic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: 'Rubik-Italic';
+  font-style:  bold;
+  font-weight: 900;
+  src: url("./fonts/Rubik-Italic.woff2") format("woff2");
+}
