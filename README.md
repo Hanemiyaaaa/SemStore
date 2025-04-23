@@ -85,7 +85,7 @@
 
 | Имя        | Роль               | Технологии                    | Контакты                      | Статус       |
 |------------|--------------------|-------------------------------|-------------------------------|--------------|
-| Hanemiyaaaa| Frontend Developer | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack) | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/Hanemiyaaaa) | ![Active](https://img.shields.io/badge/-Active-brightgreen) |
+| Hanemiyaaaa| Frontend Developer | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack) ![БЭМ](https://img.shields.io/badge/-БЭМ-FFBF00?logo=bem&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/Hanemiyaaaa) | ![Active](https://img.shields.io/badge/-Active-brightgreen) |
 | sEmz7      | Backend Engineer   | ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring) ![Java](https://img.shields.io/badge/-Java-007396?logo=java) ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?logo=thymeleaf) | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/sEmz7) | ![Active](https://img.shields.io/badge/-Active-brightgreen) |
 
 

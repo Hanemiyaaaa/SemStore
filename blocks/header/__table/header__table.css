@@ -1,11 +1,11 @@
 .header__table {
     display: flex;
     align-items: center;
-    max-width: 100%;
-    width: 90%;
+    width: 65%;
     height: 80px;
-    justify-content: space-evenly;
+    justify-content: flex-end;
     flex-direction: row;
     margin-left: 120px;
     margin-right: auto;
+    gap: 50px;
 }

@@ -1,0 +1,9 @@
+.header__table-contacts-icons {
+    width: 30px;
+    height: 30px;
+    transition: transform 0.3s ease-out;
+}
+
+.header__table-contacts-icons:hover {
+    filter: brightness(0) saturate(100%) invert(66%) sepia(98%) saturate(3363%) hue-rotate(2deg) brightness(104%) contrast(103%);
+}
