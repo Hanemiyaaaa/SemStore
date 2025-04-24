@@ -1,7 +1,7 @@
 .header__table-logo {
     width: 220px;
     height: 150px;
-    opacity: 5;
+    z-index: 5;
     margin-top: 80px;
     margin-left: 10px;
 }

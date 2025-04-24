@@ -5,6 +5,8 @@
     color: #707070;
     text-decoration: none;
     transition: color 0.3s ease-out;
+    display: flex;
+    align-items: center;     
 }
 
 .header__table-home:hover {

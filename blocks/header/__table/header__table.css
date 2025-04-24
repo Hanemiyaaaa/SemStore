@@ -6,6 +6,6 @@
     justify-content: flex-end;
     flex-direction: row;
     margin-left: 120px;
-    margin-right: auto;
+    margin-right: 0;
     gap: 50px;
 }
