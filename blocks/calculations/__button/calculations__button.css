@@ -1,0 +1,32 @@
+.calculations__button {
+    background-color: #ff9100;
+    width: 200px;
+    height: 70px;
+    border-radius: 12px 0 0 12px;
+    color: black;
+    font-family: 'SF-Pro-Display-Bold', sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    align-self: flex-end;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+    transform-origin: right;
+}
+
+.calculations__button:hover {
+    transform: scaleX(1.1); 
+    box-shadow: -6px 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+.calculations__button:active {
+    transform: scaleX(1.08) scaleY(0.98);
+    box-shadow: -3px 3px 8px rgba(0, 0, 0, 0.1);
+}

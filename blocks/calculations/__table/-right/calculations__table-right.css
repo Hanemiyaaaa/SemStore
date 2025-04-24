@@ -1,0 +1,7 @@
+.calculations__table-right {
+    display: flex;
+    width: 450px;
+    height: 100%;
+    justify-content: flex-end;
+    margin-left: 100px;
+}

@@ -6,3 +6,11 @@
 @import url('../blocks/header/__table/-home/header__table-home.css');
 @import url('../blocks/header/__table/-logo/header__table-logo.css');
 @import url('../blocks/header/__table/-icons/header__table-contacts-icons.css');
+@import url('../blocks/calculations/calculations.css');
+@import url('../blocks/calculations/__table/calculations__table.css');
+@import url('../blocks/calculations/__table/-left/calculations__table-left.css');
+@import url('../blocks/calculations/__table/-right/calculations__table-right.css');
+@import url('../blocks/calculations/__photo/calculations__photo.css');
+@import url('../blocks/calculations/__button/calculations__button.css');
+@import url('../blocks/calculations/__description/calculations__description.css');
+@import url('../blocks/calculations/__heading/calculations__heading.css');
