@@ -14,3 +14,11 @@
 @import url('../blocks/calculations/__button/calculations__button.css');
 @import url('../blocks/calculations/__description/calculations__description.css');
 @import url('../blocks/calculations/__heading/calculations__heading.css');
+@import url('../blocks/followingthenews/followingthenews.css');
+@import url('../blocks/followingthenews/__table/followingthenews__table.css');
+@import url('../blocks/followingthenews/__heading/followingthenews__heading.css');
+@import url('../blocks/followingthenews/__subheading/followingthenews__subheading.css');
+@import url('../blocks/followingthenews/__link/followingthenews__link.css');
+@import url('../blocks/followingthenews/__button/followingthenews__button.css');
+@import url('../blocks/newsletter-form/newsletter-form.css');
+@import url('../blocks/newsletter-form/input-field/input-field.css');

@@ -1,0 +1,12 @@
+.followingthenews__icon {
+    margin-top: 25px;
+}
+  
+.followingthenews__icon img {
+    width: 25px;
+    height: 25px;
+}
+
+.followingthenews__icon:hover {
+    filter: brightness(0) saturate(100%) invert(66%) sepia(98%) saturate(3363%) hue-rotate(2deg) brightness(104%) contrast(103%);
+}

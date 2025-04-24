@@ -1,0 +1,21 @@
+.followingthenews__link {
+    color: #ff9100;
+    position: relative;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .followingthenews__link::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    left: 0;
+    bottom: -2px;
+    background-color: #ff9100;
+    transition: width 0.4s ease;
+  }
+  
+  .followingthenews__link:hover::after {
+    width: 100%;
+  }

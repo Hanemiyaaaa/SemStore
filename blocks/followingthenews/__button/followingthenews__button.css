@@ -1,0 +1,11 @@
+.followingthenews__button {
+    background-color: #ff9100;
+    color: black;
+    border: none;
+    border-radius: 10px;
+    padding: 12px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s ease;
+  }
+  
